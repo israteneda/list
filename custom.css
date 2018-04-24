@@ -41,6 +41,7 @@ input[type="text"]
 {
     font-size:1em;
     font-family: 'Karla', sans-serif;
+    outline:none;
 }
 
 .container {
